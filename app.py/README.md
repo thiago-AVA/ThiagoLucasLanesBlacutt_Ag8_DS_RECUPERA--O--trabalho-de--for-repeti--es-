@@ -16,3 +16,5 @@ O programa coleta informações dos entrevistados e registra suas opiniões, per
 - Python 3
 - VS code
 - GitHub
+
+## Obs, para mudar a quantia de 10 para 50 avaliações, é so mexer na variavel "TOTAL_ENTREVISTADOS".
